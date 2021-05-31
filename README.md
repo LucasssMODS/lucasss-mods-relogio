@@ -1,4 +1,4 @@
-## 🔵 lucasss-mods-relogio 🔵
+## lucasss-mods-relogio
 
 Link Do Projeto Online: [Visualizar](https://www.lucasss-mods-relogio.tk)
 
